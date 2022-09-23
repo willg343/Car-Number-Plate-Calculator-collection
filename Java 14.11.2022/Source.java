@@ -1,3 +1,7 @@
+/**
+    THis translation is authored by the following CodeWars user: https://www.codewars.com/users/5efe46bb784579001cfa66c9
+*/
+
 public class Solution {
     public static String findTheNumberPlate(int customerID) {
         StringBuilder stringBuilder = new StringBuilder();
