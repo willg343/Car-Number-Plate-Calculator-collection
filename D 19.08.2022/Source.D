@@ -1,3 +1,7 @@
+/*
+  The source code is authored by the following CodeWars user: www.codewars.com/users/akar-0
+*/
+
 module solution;
 
 import std.algorithm, std.math, std.string, std.array;
