@@ -1,4 +1,6 @@
-// Sample test suite is developed by the following CodeWars User: https://www.codewars.com/users/Reargem
+/*
+    The sample test suite is developed by the following CodeWars User: www.codewars.com/users/Reargem
+*/
 
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
