@@ -1,5 +1,5 @@
 /*
-    The test suite is developed by the following CodeWars user: www.codewars.com/users/Reargem
+    The random test suite is developed by the following CodeWars user: www.codewars.com/users/Reargem
 */
 
 import java.util.function.IntFunction;
