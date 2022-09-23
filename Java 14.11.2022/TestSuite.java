@@ -1,4 +1,6 @@
-// Test suite is developed by the following codewars CodeWars user: https://www.codewars.com/users/Reargem
+/*
+    The test suite is developed by the following CodeWars user: www.codewars.com/users/Reargem
+*/
 
 import java.util.function.IntFunction;
 import org.junit.Test;
