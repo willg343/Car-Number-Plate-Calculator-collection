@@ -1,5 +1,5 @@
 /*
-    This translation is authored by the following CodeWars user: www.codewars.com/users/Reargem
+    The source code is authored by the following CodeWars user: www.codewars.com/users/Reargem
 */
 
 public class Solution {
