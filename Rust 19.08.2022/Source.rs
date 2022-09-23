@@ -1,3 +1,7 @@
+/*
+    The source code is authored by the following CodeWars user: ww.codewars.com/akar-0
+*/
+
 use std::collections::HashMap;
 use lazy_static::lazy_static;
 use std::iter::FromIterator;
