@@ -1,3 +1,5 @@
+# partially modified by the following CodeWars user: www.codewars.com/users/Blind4Basics
+
 TESTS = [
     ('Numbers between 0 and 1000000',
         [(19,'aaa020'), (50,'aaa051'), (187,'aaa188'), (5000,'faa006'), (12354,'maa367'), (43056,'rba100'), (703100,'bbb804'), (999997,'mmb998')]
