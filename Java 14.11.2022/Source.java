@@ -1,5 +1,5 @@
 /**
-    THis translation is authored by the following CodeWars user: https://www.codewars.com/users/5efe46bb784579001cfa66c9
+    This translation is authored by the following CodeWars user: https://www.codewars.com/users/5efe46bb784579001cfa66c9
 */
 
 public class Solution {
