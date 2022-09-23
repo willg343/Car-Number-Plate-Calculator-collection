@@ -1,5 +1,5 @@
 /*
-    The source code is authored by the following CodeWars user: ww.codewars.com/akar-0
+  The sample test suite is developed by the following CodeWars user: www.codewars.com/users/akar-0
 */
 
 use std::collections::HashMap;
