@@ -1,4 +1,4 @@
-ghgzbz        
+#ghgzbz        
         
         .file   "solution.c"
         .option pic
