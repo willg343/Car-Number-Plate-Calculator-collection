@@ -1,4 +1,4 @@
-#ghgzbz        
+# The source code is authored by the following CodeWars user: www.codewars.com/users/donaldsebleung       
         
         .file   "solution.c"
         .option pic
