@@ -1,5 +1,5 @@
 /*
-  The sample test suite is developed by the following CodeWars user: https://www.codewars.com/users/porkfreezer
+  The sample test suite is developed by the following CodeWars user: www.codewars.com/users/porkfreezer
 */
 
 #include <criterion/criterion.h>
