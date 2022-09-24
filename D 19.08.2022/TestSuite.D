@@ -47,7 +47,6 @@ unittest
         );
         return "%s%03d".format(res.dup.reverse, n+1);
     }
-
     import std.random : Random, unpredictableSeed, uniform;
     auto rnd = Random(unpredictableSeed);
     foreach(_; 0 .. 100)
