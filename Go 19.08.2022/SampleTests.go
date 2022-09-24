@@ -2,7 +2,6 @@
   The sample test suite is developed by the following CodeWars user: www.codewars.com/users/akar-0
 */
 
-// TODO: replace with your own tests (TDD). An example to get you started is included below.
 // Ginkgo BDD Testing Framework <http://onsi.github.io/ginkgo/>
 // Gomega Matcher Library <http://onsi.github.io/gomega/>
 
