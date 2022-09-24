@@ -1,5 +1,5 @@
 /*
-  The test suite was developed by the following CodeWars user: www.codewars.com/users/donaldsebleung
+  The test suite is developed by the following CodeWars user: www.codewars.com/users/donaldsebleung
 */
 
 #include <cgreen/cgreen.h>
