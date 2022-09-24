@@ -1,5 +1,5 @@
 /*
-  The sample test suite was developed by the following CodeWars user: www.codewars.com/users/donaldsebleung
+  The sample test suite is developed by the following CodeWars user: www.codewars.com/users/donaldsebleung
 */
 
 
