@@ -22,7 +22,6 @@ for title,config in TESTS:
         
 @test.describe("Random tests")
 def random_tests():
-  
     from random import randint
     
     def find_the_number_plate(n):
