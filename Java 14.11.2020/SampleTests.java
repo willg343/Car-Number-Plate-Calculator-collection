@@ -1,5 +1,5 @@
 /*
-    The sample test suite was developed by the following CodeWars User: www.codewars.com/users/Reargem
+    The sample test suite is developed by the following CodeWars User: www.codewars.com/users/Reargem
 */
 
 import org.junit.Test;
