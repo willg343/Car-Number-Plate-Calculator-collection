@@ -1,5 +1,5 @@
 /*
-  The source code was authored by the following CodeWars user: www.codewars.com/users/porkfreezer
+  The source code is authored by the following CodeWars user: www.codewars.com/users/porkfreezer
 */
 
 #include <stdlib.h>
