@@ -28,7 +28,7 @@ solution = (n) ->
     return "#{alph.charAt(left)}#{alph.charAt(middle)}#{alph.charAt(right)}#{String(n%999+1).padStart(3,'0')}"
   
 Test.describe("Random tests", () ->
-  for i in [1..100]
+  for i in [0..99]
     n = Math.floor(Math.random()*17558423)
     Test.it("Testing for #{n}", ()->
       Test.assertEquals(findTheNumberPlate(n),solution(n))
