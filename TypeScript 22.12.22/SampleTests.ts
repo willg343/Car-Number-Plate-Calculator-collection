@@ -13,7 +13,6 @@ var tests : [number, string][] =[
 describe("Sample Test Cases", function()  {
   tests.forEach( function (test:[number, string]): void {
     it(`Testing for ${test[0]}`, function() {
-      console.log(test[0], test[1])
       assert.strictEqual(findTheNumberPlate(test[0]), test[1]);
     });
   });
